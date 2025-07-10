@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Simulix**
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **Angular**
 
 - ⚡ Fun fact **I am a Knowledge Explorer**
 
